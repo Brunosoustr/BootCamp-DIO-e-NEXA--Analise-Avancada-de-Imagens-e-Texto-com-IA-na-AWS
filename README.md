@@ -1,1 +1,1 @@
-# Nexa---Analise-Avancada-de-Imagens-e-Texto-com-IA-na-AWS
+# Nexa - Analise-Avancada-de-Imagens-e-Texto-com-IA-na-AWS
